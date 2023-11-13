@@ -1,0 +1,2 @@
+# requirements files
+snowflake-connector-python
